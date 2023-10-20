@@ -5,7 +5,7 @@ const number2 = document.querySelector(".number2");
 const input = document.querySelector(".input");
 
 const randomNumber = (num) => {
-  return (num.innerText = Math.floor(Math.random() * 11));
+  return (num.innerText = Math.floor(Math.random() * 16));
 };
 
 let num1 = randomNumber(number1);
