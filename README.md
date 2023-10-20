@@ -7,3 +7,5 @@ Projeto desenvolvido por [Sahand Ghavidel](https://github.com/sahandghavidel) em
 Link repository: https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners
 
 ![image](https://github.com/kervines/multiplication-app/assets/57775586/9d67438e-caf9-4cb3-a119-8357513d6f83)
+
+Link do projeto no codepen: https://codepen.io/kervines/pen/GRzKaye
